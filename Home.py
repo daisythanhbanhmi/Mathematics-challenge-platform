@@ -5,9 +5,9 @@ st.set_page_config(
 )
 
 st.write("""
-# Welcome to Mini Project 2
+# Welcome to Math Challenge Arena
 
-In this project, you will create a simple math game which you can send to different users.
+In this space, you will create a simple math game which you can send to different users.
 
 To get started:
 1. Click the User page and add a few users.
