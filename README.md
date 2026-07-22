@@ -34,7 +34,7 @@ The project simulates the core functionality of an online learning platform wher
 <img width="1476" height="1256" alt="image" src="https://github.com/user-attachments/assets/43c232b4-9a79-4171-b02c-a3e6aa1c906d" />
 <img width="1464" height="666" alt="image" src="https://github.com/user-attachments/assets/2a583a7d-5a28-4de8-b4ab-0c268a4e2e85" />
 
-**Live Demo:** https://your-app.streamlit.app
+**Live Demo:** https://daisythanhbanhmi-mathematics-challenge-platform-home-315ekq.streamlit.app/
 
 ---
 
