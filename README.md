@@ -21,10 +21,6 @@ The project simulates the core functionality of an online learning platform wher
 
 ## Demo
 
-### Home Page
-
-![Home](images/home.png)
-
 ### Create Challenge
 
 <img width="1444" height="1410" alt="image" src="https://github.com/user-attachments/assets/eeeb86e9-95f9-4844-a982-49cdd41c8e4e" />
