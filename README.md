@@ -102,7 +102,7 @@ I developed the application, including:
 Clone the repository
 
 ```bash
-git clone https://github.com/daisythanhbanhmi/Academic-leaderboard.git
+git clone https://github.com/daisythanhbanhmi/Mathematics-challenge-platform.git
 ```
 
 Install dependencies
