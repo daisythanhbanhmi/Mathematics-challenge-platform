@@ -1,4 +1,4 @@
-<img width="1444" height="1410" alt="image" src="https://github.com/user-attachments/assets/d44d311e-da5f-40b1-8f70-c3b147b4afe3" /># Math Challenge Arena
+# Math Challenge Arena
 
 A web application that allows users to create, share, and solve mathematical challenges while tracking performance through a real-time leaderboard.
 
